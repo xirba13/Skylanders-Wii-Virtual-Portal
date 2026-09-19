@@ -8,6 +8,36 @@ Keep a backup of your SD saves and a current console recovery/NAND backup approp
 
 **DISCLAIMER**: I am not responsible for any damage to consoles, games, or other equipment that may occur while using this.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e72cd1ba-62ad-40d4-b403-bd187c2f0c88" width="400">
+      <div style="margin-top: 10px;"><b>Spyro's Adventure</b></div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5c29bd4a-4e85-4cf2-820d-d44f49880e45" width="400">
+      <div style="margin-top: 10px;"><b>Giants</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cfed1da3-8c88-4922-b9f1-e727946c9be6" width="400">
+      <div style="margin-top: 10px;"><b>Swap Force</b></div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5356a40b-d776-4dea-b937-e19b16ae273e" width="400">
+      <div style="margin-top: 10px;"><b>Trap Team</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/d1d7c363-50a5-4acb-b373-92eeff381d7c" width="400">
+      <div style="margin-top: 10px;"><b>Superchargers Racing</b></div>
+    </td>
+  </tr>
+</table>
+
+
 ## Features
 
 - SD catalogue of up to **640 figures**, with **16 virtual portal slots**.
