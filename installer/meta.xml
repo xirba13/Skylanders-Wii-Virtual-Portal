@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app version="1">
+  <name>Skylanders Portal - vWii ONLY</name>
+  <coder>dragbe, FIX94; Skylanders portal project</coder>
+  <version>1.2-vWii</version>
+  <release_date>20260913</release_date>
+  <short_description>Wii U vWii ONLY - base57 v6175</short_description>
+  <long_description>For Wii U vWii only, not original Wii. Install the Skylanders cIOS using base 57 v6175 into slot 252. Supports up to 640 SD figures across five games, 16 portal slots and saved figure progress. Set each supported game's IOS to 252 and load its matching alternate DOL from SD. Plus and Minus opens the figure menu on either player's Wii Remote.</long_description>
+  <arguments><arg>--remove-cache</arg></arguments>
+  <no_ios_reload />
+</app>

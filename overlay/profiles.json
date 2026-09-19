@@ -1,0 +1,84 @@
+{
+  "SKYZ52": {
+    "name": "Skylanders Giants",
+    "sha256": "8a538ccfa2d5e98778114345c4ce503dc1c983b53befc1b53cda59c5812a6821",
+    "vi": 2151452464,
+    "read": 2151151968,
+    "sample": 2151152940,
+    "sample_instruction": 1271423497,
+    "wpad_table": 2153469488,
+    "memcpy": 2147508020,
+    "copy_disp": 2151000064,
+    "draw_done": 2150995456,
+    "copy_sites": [
+      2149051760,
+      2149052256
+    ]
+  },
+  "SSPP52": {
+    "name": "Skylanders Spyro's Adventure (revision 2)",
+    "sha256": "6f4be21bd83c7072e566f1e813392b755fd27371026b8dae5c49d56c2d20c09f",
+    "vi": 2151551360,
+    "read": 2151250864,
+    "sample": 2151251836,
+    "sample_instruction": 1271324601,
+    "wpad_table": 2153540528,
+    "memcpy": 2147508020,
+    "copy_disp": 2151099440,
+    "draw_done": 2151094832,
+    "copy_sites": [
+      2148999288,
+      2148999796
+    ]
+  },
+  "SVXI52": {
+    "name": "Skylanders Swap Force revision0",
+    "sha256": "cebe439454e070e010e29581e7ba9b8bda558fbba8857013e9f31f77f8b69030",
+    "vi": 2150139056,
+    "read": 2150167984,
+    "sample": 2150168956,
+    "sample_instruction": 1208189061,
+    "wpad_table": 2151609744,
+    "memcpy": 2150398464,
+    "copy_disp": 2149959440,
+    "draw_done": 2149954832,
+    "copy_sites": [],
+    "copy_entry": true,
+    "render_poll": true,
+    "hold_frame": true,
+    "gx_data_pointer": 2151669376
+  },
+  "SK8I52": {
+    "name": "Skylanders Trap Team revision0",
+    "sha256": "9508395ff73af492937f1cf4830a60f06e5e92ee06e8393b62bcfe1c15956355",
+    "vi": 2152018352,
+    "read": 2151717536,
+    "sample": 2151718508,
+    "sample_instruction": 1270857929,
+    "wpad_table": 2154186992,
+    "memcpy": 2147508020,
+    "copy_disp": 2151566320,
+    "draw_done": 2151561712,
+    "copy_sites": [],
+    "copy_entry": true,
+    "render_poll": true,
+    "hold_frame": true
+  },
+  "SKNP52": {
+    "name": "Skylanders SuperChargers Racing revision0",
+    "sha256": "862c9de4102cd2e69820673fa17d3378c7319d219249e8543273b888c95c54e5",
+    "vi": 2150560928,
+    "read": 2150258928,
+    "sample": 2150259900,
+    "sample_instruction": 1272316537,
+    "wpad_table": 2154163536,
+    "memcpy": 2147508020,
+    "copy_disp": 2150100448,
+    "draw_done": 2150095840,
+    "copy_sites": [],
+    "copy_entry": true,
+    "render_poll": true,
+    "hold_frame": true,
+    "gx_data_pointer": 2155730336
+  }
+}

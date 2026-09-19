@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app version="1">
+ <name>Skylanders Portal - Wii ONLY</name>
+ <coder>dragbe, FIX94; Skylanders portal project</coder>
+ <version>1.2-Wii</version>
+ <release_date>20260913</release_date>
+ <short_description>Original Wii: base57 v5918 / slot252</short_description>
+ <long_description>For original Wii only, not Wii U vWii or Wii mini. Select SkylandersWii, base57 v5918, destination252. Tested on a European original Wii. Select cIOS revision 21999. Supports the shared600-figure SD library,16 portal slots and five matching game menu patches. Do not choose the separate vWii installer on an original Wii.</long_description>
+ <arguments><arg>--remove-cache</arg></arguments>
+ <no_ios_reload />
+</app>

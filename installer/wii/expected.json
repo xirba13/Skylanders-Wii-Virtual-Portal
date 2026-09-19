@@ -1,0 +1,135 @@
+{
+  "platform": "Wii",
+  "ios": 57,
+  "version": 5918,
+  "hid_sha256": "0580a622d836e681810534d62fbc1c5658bd30b5a5306a2531a57613b2e19dd0",
+  "portal_sha256": "1c6899e72762c8acd6c92d194d69baba077921541fd6101c7fb72cc44e0d13f1",
+  "base_wad_sha256": "21d7c209c2afd3c1006c078a9ded37bcab7eb6ed4eccc415abe5532919105eff",
+  "official_release": "https://github.com/wiidev/d2x-cios/releases/tag/d2x-v11-beta3",
+  "official_zip_sha256": "c2c7c9c5dad247c48f561a2b08f74359227e09271104dec814dbab4ad97e68d3",
+  "installer_sha256": "f46f7ff56cb1b152e79a91e41dab0e553eb9d9df3a05a93ee60a44d3c6374131",
+  "contents": [
+    {
+      "index": 0,
+      "cid": 24,
+      "size": 64,
+      "sha256": "24ea2ec022c31f9247d96f81648d0839f9f5f7f6f104bd2de6af19578b8ea928"
+    },
+    {
+      "index": 1,
+      "cid": 22,
+      "size": 33368,
+      "sha256": "2af433857cb7cd2285c9c0eb3a73bba84f1459fad44272e963271b5984a5e4ef"
+    },
+    {
+      "index": 2,
+      "cid": 2,
+      "size": 15352,
+      "sha256": "a468d98b8087a3775cdd44836e05cecfc71720c806d8bd0678b7ddffb792a5f4"
+    },
+    {
+      "index": 3,
+      "cid": 3,
+      "size": 23256,
+      "sha256": "0c57c7f1d58a9d7f97591fc0c0ef767af62d0c106c34db9957867f1f583c0559"
+    },
+    {
+      "index": 4,
+      "cid": 25,
+      "size": 10896,
+      "sha256": "9e7f32c740de8775be6ac23ecbb505682a4393fb6f23911bc9ceb82cd24db9c3"
+    },
+    {
+      "index": 5,
+      "cid": 5,
+      "size": 172344,
+      "sha256": "e40000af5f10e99d41519524afffd3e70a4896488d78a77d18fbf41cafbc8aa1"
+    },
+    {
+      "index": 6,
+      "cid": 6,
+      "size": 373156,
+      "sha256": "780379789ea98a195930f138a6a103e9f88873ead01673ebe0d7f85103aafa47"
+    },
+    {
+      "index": 7,
+      "cid": 26,
+      "size": 71844,
+      "sha256": "b44d2001dab83662db18412662fc99d360414e47b049c585c3ec2e6622f441cc"
+    },
+    {
+      "index": 8,
+      "cid": 8,
+      "size": 447868,
+      "sha256": "0460bd9223e93d91f3166225e8be047c8db172835d19155216767b1b01b4fd04"
+    },
+    {
+      "index": 9,
+      "cid": 9,
+      "size": 42572,
+      "sha256": "ce95bc49a7282c7b663cb1bf36a1e0fd12003ff6ad9d9d450f2841b6f9017e82"
+    },
+    {
+      "index": 10,
+      "cid": 20,
+      "size": 19184,
+      "sha256": "9d9f1aa6fb8fc5c30d34d93498d9cdf399f1604448ec662a9af4718509e58b57"
+    },
+    {
+      "index": 11,
+      "cid": 11,
+      "size": 521008,
+      "sha256": "f5fe3c2cf72ff031091f375d27a32e8bf4939a67a2c9d1458715bc624c40ce42"
+    },
+    {
+      "index": 12,
+      "cid": 12,
+      "size": 10412,
+      "sha256": "46bb1990124abbc26fe69723bafd013b4a6c9eb246cb856d9b44f28fa3097c32"
+    },
+    {
+      "index": 13,
+      "cid": 13,
+      "size": 11632,
+      "sha256": "0580a622d836e681810534d62fbc1c5658bd30b5a5306a2531a57613b2e19dd0"
+    },
+    {
+      "index": 14,
+      "cid": 14,
+      "size": 7188,
+      "sha256": "2f792aba84c104540e5575d7602582b477126d23c6aa397cae93e29712361d9f"
+    },
+    {
+      "index": 15,
+      "cid": 15,
+      "size": 11496,
+      "sha256": "261c934b8f16013153b0323b436763ced6fdeeb4dbba8a1b53c30f9085205215"
+    },
+    {
+      "index": 16,
+      "cid": 16,
+      "size": 10676,
+      "sha256": "fe2b347ad7d2cb7258b920b7b69f642f6d390bacb3e3c3f2c8749ee28d34a762"
+    },
+    {
+      "index": 17,
+      "cid": 27,
+      "size": 11516,
+      "sha256": "603f6ba0488ad84e5a9e228afef9b0872f287d1ea92b7e15f5038d2257762e33"
+    },
+    {
+      "index": 18,
+      "cid": 28,
+      "size": 168920,
+      "sha256": "fe546d94a5d856f05814829cb7d96a3dde5e53c697c9e64cab84d676a4044d90"
+    }
+  ],
+  "modules": {
+    "DIPP.app": "2ea1593075912a31a2461c1fef4a1405fd7ae27ad46a052738753dcf1b3e8ca7",
+    "EHCI.app": "09bdca8023562aa6a1888b68e204a1204c720d9896a428756a443d939f22c031",
+    "ES.app": "2f3fedfd11f34318a69e19ae47f6340b4ed5bc6a86482e636753780b2350499f",
+    "FAT.app": "f8b81d418253445a15773378d229c95cfc2be28da0d405d87a2f1b807c7ee214",
+    "FFSP.app": "053bac1d483fa195c7ef904bdb549de4f6f8065d95fd311ac80d1cda63889558",
+    "MLOAD.app": "7b8317b20804758bdf959df5237a7dd5bb905a6df25044f6f6c0f08c183c4c98"
+  }
+}

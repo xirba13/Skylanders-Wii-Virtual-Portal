@@ -1,0 +1,45 @@
+# Build products
+build/
+*.o
+*.d
+*.elf
+*.elf.orig
+*.dol
+*.app
+*.map
+
+# Proprietary/user-owned inputs: never commit
+*.wad
+*.WAD
+*.dump
+slot*.bin
+000000*.app
+keys.txt
+local-inputs/
+
+# Local reports and caches
+__pycache__/
+*.pyc
+skylanders-debug.bin
+
+# Private workspace, SD content and release archives
+work/
+outputs/
+*.iso
+*.wbfs
+*.rvz
+*.gcz
+*.bin
+*.sav0
+*.sav1
+*.tik
+*.tmd
+*.cert
+*.zip
+*.7z
+*.key
+private_figure.h
+library.json
+# Personal hardware probe photographs
+evidence/*.png
+evidence/*.jpg

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Skylanders HIDv5 Probe</name>
+  <coder>Codex / xabie</coder>
+  <version>E06b-v32</version>
+  <release_date>20260910000000</release_date>
+  <short_description>Diagnóstico directo de /dev/usb/hid en IOS252</short_description>
+  <long_description>Recarga IOS252 y prueba GETVERSION, GETDEVICECHANGE y GETDEVPARAMS de HIDv5 con tiempo límite.</long_description>
+</app>
