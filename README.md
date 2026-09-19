@@ -202,4 +202,4 @@ Thanks to the d2x cIOS, FAKEMOTE/embedded-game-controller, devkitPro/libogc, USB
 
 Do not publish Nintendo IOS/WADs, keys/tickets, NAND dumps, game images, complete original or patched DOLs, figure dumps, save journals, private SD ZIPs or personal probe photos. Patches contain small replacement byte sequences and our overlay rather than whole games; this is not a blanket legal clearance for distributing every byte. Upstream code remains subject to its own licenses.
 
-Possible future work: patches for more regions/revisions, configurable autosave timing and clearer save-status feedback, broader hardware testing and more portable build/package tooling. These are ideas, not promised features. The working runtime is frozen for now.
+Possible future work: patches for more regions/revisions, reduce or remove the menu flickering, configurable autosave timing and clearer save-status feedback, broader hardware testing and more portable build/package tooling. These are ideas, not promised features. The working runtime is frozen for now.
